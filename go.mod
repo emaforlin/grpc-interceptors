@@ -1,4 +1,4 @@
-module github.com/emaforlin/interceptors
+module github.com/emaforlin/grpc-interceptors
 
 go 1.24.0
 
